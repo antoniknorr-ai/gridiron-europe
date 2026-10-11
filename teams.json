@@ -1,0 +1,135 @@
+{
+  "updated": "2026-10-11",
+  "teams": [
+    {
+      "id": "eagles", "name": "Warsaw Eagles", "city": "Warsaw", "country": "Poland",
+      "lat": 52.2297, "lng": 21.0122,
+      "league": "PFL", "pfl": { "pos": 1, "w": 9, "l": 0 }, "u20": true, "champ": true,
+      "playoff": "Polish Bowl XXI champion",
+      "field": { "name": "Dozbud Arena (Stadion Miejski)", "address": "ul. Słowackiego 21, 05-091 Ząbki", "note": "Hosted their 2026 quarterfinal" },
+      "links": { "website": "https://warsaweagles.com", "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "rebels", "name": "Silesia Rebels", "city": "Katowice", "country": "Poland",
+      "lat": 50.2649, "lng": 19.0238,
+      "league": "PFL", "pfl": { "pos": 2, "w": 7, "l": 2 }, "u20": true,
+      "playoff": "Won quarterfinal vs Olsztyn Lakers",
+      "field": { "name": "Ośrodek sportowy Asnyka (MOSiR)", "address": "ul. Asnyka, Katowice", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": "https://en.wikipedia.org/wiki/Silesia_Rebels" }
+    },
+    {
+      "id": "panthers", "name": "Panthers Wrocław", "city": "Wrocław", "country": "Poland",
+      "lat": 51.1079, "lng": 17.0385,
+      "league": "AFLE", "u20": true,
+      "playoff": "Reached the 2026 AFLE playoffs",
+      "teamNote": "First team. Plays in AFLE, the pan-European pro league. The club's second team plays in the PFL.",
+      "field": { "name": "Stadion Olimpijski", "address": "ul. Ignacego Jana Paderewskiego 35, 51-612 Wrocław", "note": null },
+      "links": { "website": "https://en.pantherswroclaw.com", "instagram": null, "wikipedia": "https://en.wikipedia.org/wiki/Panthers_Wroc%C5%82aw" }
+    },
+    {
+      "id": "panthers2", "name": "Panthers Wrocław II", "city": "Wrocław", "country": "Poland",
+      "lat": 51.1079, "lng": 17.0385,
+      "league": "PFL", "pfl": { "pos": 3, "w": 7, "l": 2 },
+      "playoff": "Polish Bowl XXI finalist",
+      "teamNote": "Second team of Panthers Wrocław.",
+      "field": { "name": "Stadion Olimpijski", "address": "ul. Ignacego Jana Paderewskiego 35, 51-612 Wrocław", "note": null },
+      "links": { "website": "https://en.pantherswroclaw.com", "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "lowlanders", "name": "Lowlanders Białystok", "city": "Białystok", "country": "Poland",
+      "lat": 53.1325, "lng": 23.1688,
+      "league": "PFL", "pfl": { "pos": 4, "w": 6, "l": 3 }, "u20": true,
+      "playoff": "Won quarterfinal vs Jaguars",
+      "field": { "name": "Chorten Arena, side pitch", "address": "ul. Słoneczna 1, 15-323 Białystok", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": "https://en.wikipedia.org/wiki/Lowlanders_Bia%C5%82ystok" }
+    },
+    {
+      "id": "jaguars", "name": "Jaguars Kąty Wrocławskie", "city": "Kąty Wrocławskie", "country": "Poland",
+      "lat": 51.0300, "lng": 16.7680,
+      "league": "PFL", "pfl": { "pos": 5, "w": 6, "l": 3 },
+      "playoff": "Lost quarterfinal",
+      "field": null,
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "lakers", "name": "AZS UWM Olsztyn Lakers", "city": "Olsztyn", "country": "Poland",
+      "lat": 53.7784, "lng": 20.4801,
+      "league": "PFL", "pfl": { "pos": 6, "w": 5, "l": 4 },
+      "playoff": "Lost quarterfinal",
+      "field": { "name": "Field at Szkoła Podstawowa nr 18", "address": "ul. Żytnia 71, 10-822 Olsztyn", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "wataha", "name": "Wataha Zielona Góra", "city": "Zielona Góra", "country": "Poland",
+      "lat": 51.9356, "lng": 15.5062,
+      "league": "PFL", "pfl": { "pos": 7, "w": 4, "l": 5 },
+      "playoff": "Lost quarterfinal",
+      "field": { "name": "Wataha football stadium", "address": "ul. Botaniczna 66, 65-392 Zielona Góra", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "wilki", "name": "Wilki Łódzkie", "city": "Łódź", "country": "Poland",
+      "lat": 51.7592, "lng": 19.4560,
+      "league": "PFL", "pfl": { "pos": 8, "w": 3, "l": 5 },
+      "field": null,
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "kings", "name": "Kraków Kings", "city": "Kraków", "country": "Poland",
+      "lat": 50.0647, "lng": 19.9450,
+      "league": "PFL", "pfl": { "pos": 9, "w": 3, "l": 6 }, "u20": true,
+      "playoff": "Lost quarterfinal",
+      "field": null,
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "tytani", "name": "Tytani Lublin", "city": "Lublin", "country": "Poland",
+      "lat": 51.2465, "lng": 22.5684,
+      "league": "PFL", "pfl": { "pos": 10, "w": 2, "l": 6 },
+      "field": { "name": "Stadion Lekkoatletyczny", "address": "al. Józefa Piłsudskiego 22, Lublin", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "armia", "name": "Armia Poznań", "city": "Poznań", "country": "Poland",
+      "lat": 52.4064, "lng": 16.9252,
+      "league": "PFL", "pfl": { "pos": 11, "w": 2, "l": 6 }, "u20": true,
+      "field": { "name": "POSiR Golęcin", "address": "ul. Warmińska 1, 60-622 Poznań", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "mets", "name": "Warsaw Mets", "city": "Warsaw", "country": "Poland",
+      "lat": 52.2297, "lng": 21.0122,
+      "league": "PFL", "pfl": { "pos": 12, "w": 2, "l": 6 }, "u20": true,
+      "field": { "name": "Bemowski Ośrodek Piłki Nożnej", "address": "Bemowo, Warsaw", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "dukes", "name": "Dukes Ząbki", "city": "Ząbki", "country": "Poland",
+      "lat": 52.2928, "lng": 21.1060,
+      "league": "PFL", "pfl": { "pos": 13, "w": 0, "l": 8 },
+      "field": null,
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "rhinos", "name": "Rhinos Wyszków", "city": "Wyszków", "country": "Poland",
+      "lat": 52.5917, "lng": 21.4572,
+      "league": null, "u20": true,
+      "field": { "name": "Stadium side pitch", "address": "ul. Tadeusza Kościuszki 54, 07-200 Wyszków", "note": null },
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "hunters", "name": "Hunters Tarnów", "city": "Tarnów", "country": "Poland",
+      "lat": 50.0121, "lng": 20.9858,
+      "league": null, "u20": true,
+      "field": null,
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    },
+    {
+      "id": "falcons", "name": "Tychy Falcons", "city": "Tychy", "country": "Poland",
+      "lat": 50.1236, "lng": 18.9667,
+      "league": null, "u20": true,
+      "field": { "name": "Falcons field", "address": "Osiedle Z-1, 43-110 Tychy", "note": "Next to St. Maximilian Kolbe church" },
+      "links": { "website": null, "instagram": null, "wikipedia": null }
+    }
+  ]
+}
